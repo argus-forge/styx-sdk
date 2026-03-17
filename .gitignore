@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+*.egg-info/
+completion_log.txt
+.eggs/
