@@ -10,7 +10,10 @@ Python SDK implementing the Styx Protocol (Modified X3DH + Double Ratchet over X
 ## Install
 
 ```bash
-pip install -e .
+pip install git+https://github.com/argus-forge/styx-sdk.git
+
+# Or for development:
+# git clone https://github.com/argus-forge/styx-sdk.git && cd styx-sdk && pip install -e .
 ```
 
 **Requirements:** Python >= 3.10, xrpl-py, cryptography, pynacl
