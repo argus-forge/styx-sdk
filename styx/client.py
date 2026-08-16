@@ -49,7 +49,7 @@ def _make_client(network: str):
 class StyxClient:
     """
     Top-level public API. Default network: testnet.
-    Patent Pending — Sentinel Intelligence LLC.
+    Patent pending.
     TESTNET by default. Mainnet requires explicit configuration.
     """
 

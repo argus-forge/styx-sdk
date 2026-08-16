@@ -10,7 +10,7 @@ setup(
         "pynacl>=1.5.0",
     ],
     python_requires=">=3.10",
-    author="Sentinel Intelligence LLC",
+    author="Sentinel Intelligence, a project of ArgusForge LLC",
     description="Styx Protocol SDK — End-to-End Encrypted Communication over XRPL",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",

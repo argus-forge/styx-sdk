@@ -2,7 +2,7 @@
 
 Python SDK implementing the Styx Protocol (Modified X3DH + Double Ratchet over XRPL AccountSet memos)
 
-**Patent Pending — Sentinel Intelligence LLC.**
+**Patent pending.**
 **TESTNET by default. Mainnet requires explicit configuration.**
 
 ---
@@ -149,4 +149,4 @@ MIT
 
 ## Patent Notice
 
-Styx Protocol is patent pending (USPTO SENTINEL-STYX-PROV-001). This SDK is licensed under MIT for use, testing, and integration.
+Styx Protocol is patent pending. This SDK is licensed under MIT for use, testing, and integration.
